@@ -6,6 +6,6 @@
 # To get started, just move your existing .vim and .vimrc out of the way and
 # source this file, or type the following from wherever you want to install:
 
-git clone --recursive git://github.com/tastapod/vimfiles.git
+git clone --recursive git://github.com/joewalnes/vimfiles.git
 ln -s $PWD/vimfiles/vim ~/.vim
 ln -s $PWD/vimfiles/vimrc ~/.vimrc
